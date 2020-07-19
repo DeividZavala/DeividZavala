@@ -2,13 +2,13 @@
 
 ### I'm a Software Engineer at [RunaHr][Runa], speaker and Teacher.
 
-👨🏽‍💻 Passionate developer and teacher, everlasting student 
-🧠 learning Docker, Kubernetes, GraphQL.
+- 👨🏽‍💻 Passionate developer and teacher, everlasting student 
+- 🧠 learning Docker, Kubernetes, GraphQL.
 
 ### Communities in which I collaborate
 
-[Firebase MX][firebasemx]
-[Fixter Geek][fixter]
+- [Firebase MX][firebasemx]
+- [Fixter Geek][fixter]
 
 ### Courses
 
