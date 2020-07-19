@@ -20,7 +20,7 @@
 🐦 [twitter][twitter] **|** 
 🎥 [twitch][twitch] **|** 
 📷 [instagram][instagram] **|** 
-📰 [Medium][instagram] **|** 
+📰 [Medium][medium] **|** 
 👔 [linkedin][linkedin]
 
 
@@ -30,5 +30,6 @@
 [instagram]: https://www.instagram.com/deivid_moss
 [linkedin]: https://www.linkedin.com/in/david-zavala-bartolome
 [firebasemx]: https://www.facebook.com/firebasemexico
+[medium]: https://medium.com/@davidzavala_81467
 [fixter]: https://fixter.camp
 [Runa]: https://runahr.com/
