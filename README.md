@@ -12,7 +12,9 @@
 
 ### Courses
 
-[Testing en ReactJs][fixter] (Coming soon)
+-[Testing en ReactJs][fixter] (Coming soon)
+
+---
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
