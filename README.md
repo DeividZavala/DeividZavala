@@ -1,16 +1,32 @@
-### Hi there 👋
+## Hi, I'm David 👋
 
-<!--
-**DeividZavala/DeividZavala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Software Engineer at [RunaHr][Runa], speaker and Teacher.
 
-Here are some ideas to get you started:
+👨🏽‍💻 Passionate developer and teacher, everlasting student 
+🧠 learning Docker, Kubernetes, GraphQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Communities in which I collaborate
+
+[Firebase MX][firebasemx]
+[Fixter Geek][fixter]
+
+### Courses
+
+[Testing en ReactJs][fixter] (Coming soon)
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+🎥 [twitch][twitch] **|** 
+📷 [instagram][instagram] **|** 
+📰 [Medium][instagram] **|** 
+👔 [linkedin][linkedin]
+
+
+[website]: https://davidzavala.me
+[twitter]: https://twitter.com/deividcolt
+[twitch]: https://www.twitch.tv/endless_giaco
+[instagram]: https://www.instagram.com/deivid_moss
+[linkedin]: https://www.linkedin.com/in/david-zavala-bartolome
+[firebasemx]: https://www.facebook.com/firebasemexico
+[fixter]: https://fixter.camp
+[Runa]: https://runahr.com/
