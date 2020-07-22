@@ -4,8 +4,8 @@
 
 ### I'm a Software Engineer at [RunaHr][runa], speaker and Teacher.
 
-- 👨🏽‍💻 Passionate developer and teacher, everlasting student
-- 🧠 learning Docker, Kubernetes, GraphQL.
+- 👨🏽‍💻  Passionate developer and teacher, everlasting student
+- 🧠  learning Docker, Kubernetes, GraphQL.
 
 ### Communities in which I collaborate
 
