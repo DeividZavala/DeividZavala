@@ -1,8 +1,10 @@
+<img align="right" width="500" height="500" src="assets/GitHub David.png">
+
 ## Hi, I'm David 👋
 
-### I'm a Software Engineer at [RunaHr][Runa], speaker and Teacher.
+### I'm a Software Engineer at [RunaHr][runa], speaker and Teacher.
 
-- 👨🏽‍💻 Passionate developer and teacher, everlasting student 
+- 👨🏽‍💻 Passionate developer and teacher, everlasting student
 - 🧠 learning Docker, Kubernetes, GraphQL.
 
 ### Communities in which I collaborate
@@ -16,13 +18,12 @@
 
 ---
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-🎥 [twitch][twitch] **|** 
-📷 [instagram][instagram] **|** 
-📰 [Medium][medium] **|** 
+🏡 [website][website] **|**
+🐦 [twitter][twitter] **|**
+🎥 [twitch][twitch] **|**
+📷 [instagram][instagram] **|**
+📰 [Medium][medium] **|**
 👔 [linkedin][linkedin]
-
 
 [website]: https://davidzavala.me
 [twitter]: https://twitter.com/deividcolt
@@ -32,4 +33,4 @@
 [firebasemx]: https://www.facebook.com/firebasemexico
 [medium]: https://medium.com/@davidzavala_81467
 [fixter]: https://fixter.camp
-[Runa]: https://runahr.com/
+[runa]: https://runahr.com/
