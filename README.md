@@ -1,4 +1,4 @@
-<img align="right" width="500" height="500" src="assets/GitHub David.png">
+<img align="right" width="500" height="500" src="https://github.com/DeividZavala/DeividZavala/blob/master/assets/GitHub%20David.png">
 
 ## Hi, I'm David 👋
 
