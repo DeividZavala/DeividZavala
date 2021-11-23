@@ -2,7 +2,7 @@
 
 ## Hi, I'm David 👋
 
-### I'm a Software Engineer at [RunaHr][runa], speaker and Teacher.
+### I'm a Software Engineer, speaker and Teacher.
 
 - 👨🏽‍💻  Passionate developer and teacher, everlasting student
 - 🧠  learning Docker, Kubernetes, GraphQL.
