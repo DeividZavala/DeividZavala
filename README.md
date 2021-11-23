@@ -39,4 +39,3 @@
 
 [firebasemx]: https://www.facebook.com/firebasemexico
 [fixter]: https://fixter.camp
-[runa]: https://runahr.com/
