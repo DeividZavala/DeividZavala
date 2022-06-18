@@ -4,8 +4,8 @@
 
 ### I'm a Software Engineer, speaker and Teacher.
 
-- 👨🏽‍💻  Passionate developer and teacher, everlasting student
-- 🧠  learning Docker, Kubernetes, GraphQL.
+- 👨🏽‍💻 Passionate developer and teacher, everlasting student
+- 🧠 learning Docker, Kubernetes, GraphQL.
 
 ### Communities in which I collaborate
 
@@ -14,7 +14,7 @@
 
 ### Courses
 
--[Testing en ReactJs][fixter] (Coming soon)
+-[Testing de aplicaciones React con Testing-library y Jest][curso]
 
 ---
 
@@ -38,4 +38,5 @@
 </a>
 
 [firebasemx]: https://www.facebook.com/firebasemexico
-[fixter]: https://fixter.camp
+[fixter]: https://www.fixtergeek.com
+[curso]: https://www.fixtergeek.com/courses/testing-en-react-con-jest-y-testing-library/detail
