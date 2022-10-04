@@ -27,7 +27,7 @@
 <a href="https://www.linkedin.com/in/david-zavala-bartolome">
   <img align="left" alt="Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
-<a href="https://medium.com/@davidzavala_81467">
+<a href="https://medium.com/@davidzavala-81467">
   <img align="left" alt="Medium" width="22px" src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png"/>
 </a>
 <a href="https://www.instagram.com/deivid_moss">
